@@ -5,4 +5,3 @@ def countdown(seconds_left)
 end
 end
 
-return countdown(seconds_left)
