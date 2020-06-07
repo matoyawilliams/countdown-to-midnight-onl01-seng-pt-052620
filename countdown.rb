@@ -8,7 +8,7 @@ end
 end
 
 def countdown_with_sleep(seconds)
-until seconds_left == 0 
+until seconds_left <1
   puts "#{seconds_left} SECOND(S)!"
   seconds_left -=1 
 end
