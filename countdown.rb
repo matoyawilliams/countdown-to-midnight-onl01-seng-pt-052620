@@ -4,5 +4,4 @@ def countdown(seconds_left)
   seconds_left -=1 
 end
 end
-
-return countdown("HAPPY NEW YEARS!")
+"HAPPY NEW YEARS!"
